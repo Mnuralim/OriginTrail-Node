@@ -38,6 +38,8 @@ cd /root/ && curl -k -o v8_installer.sh https://raw.githubusercontent.com/Origin
 ./v8_installer.sh
 ```
 
+![Deskripsi Gambar](photo_6100143317980398604_y.jfif)
+
 **DONE**
 
 Useful commands:
