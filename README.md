@@ -3,7 +3,7 @@
 
 For detailed information, visit: [OriginTrail Setup Guide](https://docs.origintrail.io/dkg-v8-upcoming-version/run-a-v8-core-node-on-testnet/preparation-for-v8-dkg-core-node-deployment) 
 
-Tutorial Video: [YouTube](www.youtube.com)
+
 
 ## Minimum Requirements (VPS)
 - 4GB RAM
